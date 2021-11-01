@@ -10,7 +10,7 @@
 		$un= $_POST['username'];
 		$pw= $_POST['password'];
 
-		$result= $conn->query("SELECT * FROM account WHERE username='$un' AND password='$pw'"); 
+		$result= $conn->query("SELECT * FROM useraccount WHERE username='$un' AND password='$pw'"); 
 
 		$row= $result ->Fetch_array();
 		$numRows= $result->num_rows;
