@@ -10,7 +10,6 @@ The "guestbook-list.php" displays the list of persons or users based on the regi
 ___
 <img src="https://github.com/GMasalta/logApp-Masalta/blob/main/registration.gif?raw=true"  alt="alt text">
 
-~/Geraline Masalta/logApp-Masalta
 
 ## __Setting Up PHPmyAdmin :exclamation:__
 ___
